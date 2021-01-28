@@ -1,5 +1,7 @@
-# Selenium
+# Selenium with Python
 Web Automation Scripts using Selenium and Python
+
+#Flipkart Checkout Automation
 
 This script is created for automating the product purchase flow for flipkart.com
 
