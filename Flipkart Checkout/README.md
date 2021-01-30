@@ -9,4 +9,4 @@ Inputs:
 Replace the string of enter your username/Password with your flipkart credentials before running the code
 
 Flow:
-The script will purchase apple ipad
+The script will purchase apple ipad (Please replace the xpath for the product you want to purchase)
